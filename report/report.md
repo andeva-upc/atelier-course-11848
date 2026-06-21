@@ -115,38 +115,32 @@ Al completar satisfactoriamente este curso, el estudiante logrará:
 **Lección 1: ¿Qué es Java y la Programación? (5 minutos)**
 - **Descripción:** Introducción al concepto de programación y la justificación de la selección del lenguaje Java para el desarrollo de software.
 - **Conclusiones Clave:** Utilidad de Java en aplicaciones y videojuegos; definición de programas como secuencias de instrucciones computacionales.
-- **Enlace de Video:** `[Insertar Enlace de YouTube Aquí]`
-- **Práctica en Línea:** `[Insertar Enlace de Replit/GDB Aquí]`
+- **Enlace de Video:** https://youtu.be/BE-N2QlRaj4
 
 **Lección 2: Variables y Tipos de Datos (8 minutos)**
 - **Descripción:** Estudio de la reserva de memoria y el almacenamiento de datos en Java mediante el uso de variables y la definición de tipos de datos.
 - **Conclusiones Clave:** Uso de tipos de datos primitivos como enteros (int) y cadenas de texto (String).
-- **Enlace de Video:** `[Insertar Enlace de YouTube Aquí]`
-- **Práctica en Línea:** `[Insertar Enlace de Replit/GDB Aquí]`
+- **Enlace de Video:** https://youtu.be/tq357_WeVAE
 
 **Lección 3: Estructuras de Control (10 minutos)**
 - **Descripción:** Análisis e implementación de bifurcaciones lógicas y procesos repetitivos mediante estructuras de control condicionales y bucles.
 - **Conclusiones Clave:** Toma de decisiones utilizando sentencias if-else y repetición de instrucciones utilizando bucles for y while.
-- **Enlace de Video:** `[Insertar Enlace de YouTube Aquí]`
-- **Práctica en Línea:** `[Insertar Enlace de Replit/GDB Aquí]`
+- **Enlace de Video:** https://youtu.be/c7m3T7G7RJ4
 
 **Lección 4: Métodos y Entrada/Salida (12 minutos)**
 - **Descripción:** Creación de bloques de código reutilizables denominados métodos. Introducción a la lectura de datos proporcionados por el usuario desde la consola.
 - **Conclusiones Clave:** Definición de métodos, uso de la clase Scanner para la entrada de datos.
-- **Enlace de Video:** `[Insertar Enlace de YouTube Aquí]`
-- **Práctica en Línea:** `[Insertar Enlace de Replit/GDB Aquí]`
+- **Enlace de Video:** https://youtu.be/_PlMuLTWOOA
 
 **Lección 5: Fundamentos de POO y Programas Sencillos (15 minutos)**
 - **Descripción:** Inmersión en la Programación Orientada a Objetos mediante el diseño de clases que incluyan atributos y métodos.
 - **Conclusiones Clave:** Encapsulación, métodos de acceso (getters) y construcción de un programa orientado a objetos.
-- **Enlace de Video:** `[Insertar Enlace de YouTube Aquí]`
-- **Práctica en Línea:** `[Insertar Enlace de Replit/GDB Aquí]`
+- **Enlace de Video:** https://youtu.be/Q_ru1DulAL4
 
 **Lección 6: Consejos y Próximos Pasos (10 minutos)**
 - **Descripción:** Conclusión del curso abordando las mejores prácticas de desarrollo, la identificación de errores comunes y guías para el aprendizaje continuo.
 - **Conclusiones Clave:** Proceso de depuración de errores, lectura de la documentación oficial.
-- **Enlace de Video:** `[Insertar Enlace de YouTube Aquí]`
-- **Práctica en Línea:** `[Insertar Enlace de Replit/GDB Aquí]`
+- **Enlace de Video:** https://youtu.be/i8oe5RKcOPM
 
 <div style='page-break-after: always'></div>
 
